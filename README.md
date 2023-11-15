@@ -6,6 +6,13 @@ This repository contains programs completed as part of the Computer Networks Lab
 
 - [Computer Networks Lab](#computer-networks-lab)
   - [Contents](#contents)
+    - .[CRC_Error_Detection](#CRC-Error-Detection)
+    - .[Bellman_Ford_Shortest_Path_Algorithm](#Bellman---Ford-Shortest-Path-Algorithm)
+    - .[TCP_IP_Sockets_File_Transfer](#TCP/IP-Sockets---File-Transfer)
+    - .[Datagram_Socket_Message_Display](#Datagram-Socket---Message-Display)
+    - .[RSA_Algorithm_Encryption_Decryption](#RSA-Algorithm---Encryption-and-Decryption)
+    - .[Leaky_Bucket_Algorithm_Congestion_Control](#Leaky-Bucket-Algorithm---Congestion-Control)
+      
   - [Instructions to Run the Java Programs](#instructions-to-run-the-java-programs)
     - [Ubuntu](#ubuntu)
     - [Windows (WSL)](#windows-wsl)
