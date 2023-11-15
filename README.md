@@ -6,12 +6,12 @@ This repository contains programs completed as part of the Computer Networks Lab
 
 - [Computer Networks Lab](#computer-networks-lab)
   - [Contents](#contents)
-    - [CRC_Error_Detection](#CRC-Error-Detection)
-    - [Bellman_Ford_Shortest_Path_Algorithm](#Bellman-Ford-Shortest-Path-Algorithm)
-    - [TCP_IP_Sockets_File_Transfer](#TCP-IP-Sockets-File-Transfer)
-    - [Datagram_Socket_Message_Display](#Datagram-Socket-Message-Display)
-    - [RSA_Algorithm_Encryption_Decryption](#RSA-Algorithm-Encryption-and-Decryption)
-    - [Leaky_Bucket_Algorithm_Congestion_Control](#Leaky-Bucket-Algorithm-Congestion-Control)
+    - [CRC_Error_Detection](#1-crc-error-detection)
+    - [Bellman_Ford_Shortest_Path_Algorithm](#2-bellman-ford-shortest-path-algorithm)
+    - [TCP_IP_Sockets_File_Transfer](#3-tcp-ip-sockets-file-transfer)
+    - [Datagram_Socket_Message_Display](#4-datagram-socket-message-display)
+    - [RSA_Algorithm_Encryption_Decryption](#5-rsa-algorithm-encryption-and-decryption)
+    - [Leaky_Bucket_Algorithm_Congestion_Control](#6-leaky-bucket-algorithm-congestion-control)
       
   - [Instructions to Run the Java Programs](#instructions-to-run-the-java-programs)
     - [Ubuntu](#ubuntu)
@@ -115,3 +115,20 @@ This repository contains programs completed as part of the Computer Networks Lab
    - Navigate to the directory containing the Java files.
    - Compile: `javac FileName.java`
    - Run: `java FileName`
+
+
+
+
+
+
+
+
+
+
+
+    - [1. CRC Error Detection](#1-crc-error-detection)
+    - [2. Bellman-Ford Shortest Path Algorithm](#2-bellman-ford-shortest-path-algorithm)
+    - [3. TCP/IP Sockets - File Transfer](#3-tcpip-sockets---file-transfer)
+    - [4. Datagram Socket - Message Display](#4-datagram-socket---message-display)
+    - [5. RSA Algorithm - Encryption and Decryption](#5-rsa-algorithm---encryption-and-decryption)
+    - [6. Leaky Bucket Algorithm - Congestion Control](#6-leaky-bucket-algorithm---congestion-control)
