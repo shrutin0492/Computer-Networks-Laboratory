@@ -6,12 +6,6 @@ This repository contains programs completed as part of the Computer Networks Lab
 
 - [Computer Networks Lab](#computer-networks-lab)
   - [Contents](#contents)
-    - [1. CRC Error Detection](#1-crc-error-detection)
-    - [2. Bellman-Ford Shortest Path Algorithm](#2-bellman-ford-shortest-path-algorithm)
-    - [3. TCP/IP Sockets - File Transfer](#3-tcpip-sockets---file-transfer)
-    - [4. Datagram Socket - Message Display](#4-datagram-socket---message-display)
-    - [5. RSA Algorithm - Encryption and Decryption](#5-rsa-algorithm---encryption-and-decryption)
-    - [6. Leaky Bucket Algorithm - Congestion Control](#6-leaky-bucket-algorithm---congestion-control)
   - [Instructions to Run the Java Programs](#instructions-to-run-the-java-programs)
     - [Ubuntu](#ubuntu)
     - [Windows (WSL)](#windows-wsl)
